@@ -1,6 +1,4 @@
-#chr=character, Room= selecting a room while creating a new room
 import self as self
-#used same image for all the character creations
 import XLutils
 import pytest
 from selenium import webdriver
